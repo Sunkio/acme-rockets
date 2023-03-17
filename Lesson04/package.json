@@ -1,0 +1,18 @@
+{
+  "name": "lesson04",
+  "version": "1.0.0",
+  "description": "lesson04",
+  "main": "tailwind.config.js",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "prettier-plugin-tailwindcss": "^0.2.4"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "tailwind": "npx tailwindcss -i src/input.css -o build/css/style.css --watch",
+    "prettier": "npx prettier --write **/*.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
