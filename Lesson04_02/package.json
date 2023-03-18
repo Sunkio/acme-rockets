@@ -1,7 +1,7 @@
 {
-  "name": "lesson04",
+  "name": "lesson04_02",
   "version": "1.0.0",
-  "description": "lesson04",
+  "description": "lesson04_02",
   "main": "tailwind.config.js",
   "devDependencies": {
     "lite-server": "^2.6.1",
