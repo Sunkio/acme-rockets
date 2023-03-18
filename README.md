@@ -45,6 +45,10 @@ git clone https://github.com/Sunkio/acme-rockets.git
 ```bash
 cd acme-rockets/Lesson01
 ```
+  To change into a different Lesson folder, just replace `Lesson01` with the folder name of the lesson you want to work on. Or, if you are inside a lesson folder, use the following command to change into a different lesson folder (replace `Lesson02` with the folder name of the lesson you want to work on):
+``` bash
+cd ../Lesson02
+```
 
 3. Install the dependencies:
 ```bash
