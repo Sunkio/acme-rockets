@@ -37,7 +37,7 @@ This project was built using Node.js v16.16.0. If you use [NVM](https://github.c
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and clone this repository:
 ```bash
-git clone https://github.com/Sunkio/acme-rockets.git
+git clone https://github.com/<your-username>/acme-rockets.git
 ```
 
 2. Change the current directory to the project folder and in there to the Lesson folder you want to work with. Example:
